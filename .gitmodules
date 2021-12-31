@@ -1,0 +1,9 @@
+[submodule "cinetica-Julia"]
+	path = cinetica-Julia
+	url = git@github.com:egonik-unlp/cinetica-Julia.git
+[submodule "PHcalc.jl"]
+	path = PHcalc.jl
+	url = git@github.com:egonik-unlp/PHcalc.jl.git
+[submodule "pH-Julia"]
+	path = pH-Julia
+	url = git@github.com:Juanmacdonagh17/pH-Julia.git
